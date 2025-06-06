@@ -3,7 +3,7 @@
         Log In
     </x-slot:heading>
 
-    <form method='POST' action="">
+    <form method='POST' action="/login">
     @csrf 
 
   <div class="space-y-12">
