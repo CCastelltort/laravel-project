@@ -5,8 +5,8 @@
         <meta name="viewport" 
             content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Home Page</title>
-        <script src="https://cdn.tailwindcss.com"></script>
+        <title>My Website</title>
+        @vite(['resources/js/app.js'])
     </head>
     <body class="h-full">
         <!--
